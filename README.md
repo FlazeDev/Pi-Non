@@ -13,3 +13,4 @@ I am powering the whole thing using a cuzor mini ups.
 **Software**    
 For software I am using the open source firmware called Cinemate2.    
 It is built upon CinePi.   
+https://github.com/will127534/cinemate2    
